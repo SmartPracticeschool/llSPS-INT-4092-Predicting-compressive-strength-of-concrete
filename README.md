@@ -1,3 +1,3 @@
-# Predicting compressive strength of concrete
+# Predicting the compressive strength of concrete
 
  
